@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extensible Markup Language -->
+<!-- [CDATA Sections] -->
+<company>
+	<staff id="1001">
+		<firstname>John</firstname>
+		<lastname>Peter</lastname>
+		<nickname>John</nickname>
+		<salary currency="USD">100000</salary>
+	</staff>
+	<staff id="2001">
+		<firstname>Rama</firstname>
+		<lastname>Krishna</lastname>
+		<nickname>Rama</nickname>
+		<salary currency="INR">200000</salary>
+	</staff>
+</company>
